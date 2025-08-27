@@ -1,6 +1,6 @@
-# 🧠 Bondan - Performance Benchmarking Tool
+## 🧠 Bondan - Performance Benchmarking Tool
 
-A Rust project that generates 1,000 unique structs to test compile-time performance across different hardware configurations. Built with assistance from AI tools to explore Rust's macro system and understand compile-time code generation. Demonstrates learning approach to advanced Rust concepts and performance measurement techniques.
+Bondan is a Rust project that generates 1,000 unique structs to test compile-time performance across different hardware configurations. Built to explore Rust's macro system and understand compile-time code generation.
 
 ---
 
