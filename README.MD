@@ -1,8 +1,6 @@
-# 🧠 rust-compile-stress
+# 🧠 Bondan - Performance Benchmarking Tool
 
-A simple Rust project that generates 1,000 unique structs using macros to **stress test Rust compile time performance**.  
-
-Created for benchmarking how different systems (e.g. MacBook Pro vs Mac Mini) handle large-scale Rust macro expansions and code generation workloads.
+A Rust project that generates 1,000 unique structs to test compile-time performance across different hardware configurations. Built with assistance from AI tools to explore Rust's macro system and understand compile-time code generation. Demonstrates learning approach to advanced Rust concepts and performance measurement techniques.
 
 ---
 
